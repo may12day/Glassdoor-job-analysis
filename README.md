@@ -4,12 +4,8 @@ The main aim of the project is to Analysis the data fetched from the [Glassdoor]
 
 ## Screenshots :
 
-<p align="center">
-  <img src="./img/screenshot_1.png" alt="Example 1" width="650">
-</p>
+![screenshot_1](https://user-images.githubusercontent.com/26703868/67114192-fa000700-f1f8-11e9-8863-9fb6d85a6a48.png)
 
-<p align="center">
-  <img src="./img/screenshot_2.png" alt="Example 2" width="650">
-</p>
+![screenshot_2](https://user-images.githubusercontent.com/26703868/67114206-0ab07d00-f1f9-11e9-8fb8-0c230f483f89.png)
 
 
